@@ -4,9 +4,9 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# Research Projects
+## Research Projects
 
-# Open Source Contributions
+## Open Source Contributions
 
 
 
