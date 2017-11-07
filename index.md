@@ -2,8 +2,6 @@
 layout: page
 ---
 
-<img src="/images/JianhuaYin.jpg" class="floatpic" width="108" height="128">
-
 ## 尹建华
 
 Email: jhyin12@gmail.com
